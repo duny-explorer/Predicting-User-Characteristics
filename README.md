@@ -11,7 +11,6 @@
 
 Для запуска проекта вы можете воспользоваться [Docker🐳](https://www.docker.com/):
 ```bash
-cd ./EDA_streamlit/
 docker compose up -d --build
 ```
 Сервер будет запущен на `8081` порту 🚀
@@ -30,5 +29,42 @@ docker compose up -d --build
 1. [Figma🎨](https://www.figma.com/design/yExf1RUZBxGp5qwNwys6tD/Untitled?node-id=0-1&t=47vaNiwexAYJIqlQ-1)
 2. [EDA📊](http://95.165.8.212:8081/)
 
+
 # Где брать csv?
 Для получения csv файлов, которые нужны для работы программы присылайте запросы на почту leofunow@gmail.com
+
+## EDA 
+
+![alt text](./photos/image.png)
+
+![alt text](./photos/image-1.png)
+
+![alt text](./photos/image-2.png)
+
+![alt text](./photos/image-3.png)
+
+![alt text](./photos/image-4.png)
+
+## Метрики после обучения модели 
+
+![alt text](./photos/image-5.png)
+
+![alt text](./photos/image-6.png)
+
+![alt text](./photos/image-7.png)
+
+## Аналитика по названию дерева
+
+![alt text](./photos/image-9.png)
+![alt text](./photos/image-10.png)
+
+## Карты
+
+![alt text](./photos/image-11.png)
+
+
+## Поиск мульти-пользователей 
+
+![alt text](./photos/image-12.png)
+
+![alt text](./photos/image-13.png)
